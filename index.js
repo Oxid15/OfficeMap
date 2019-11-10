@@ -34,9 +34,8 @@ MongoClient.connect(url, function(err, client) {
 
     cursor.forEach(iterateFunc, errorFunc);
 
-    client.close();
+    // client.close();
 });
-
 
 let app = express();
 app.use(express.json());
