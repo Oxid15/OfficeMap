@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="500" height="500" viewBox="-70.5 -70.5 391 391" xmlns="http://www.w3.org/2000/svg">
+<g>
+	<rect x="0" y="0" width="200" height="200" fill="blue" stroke-width="4"/>
+	<circle cx="15" cy="15" r="10" fill="white"/>
+    <circle cx="40" cy="15" r="10" fill="white"/>
+    <circle cx="65" cy="15" r="10" fill="white"/>
+    <circle cx="90" cy="15" r="10" fill="white"/>
+    <circle cx="115" cy="15" r="10" fill="white"/>
+</g>
+</svg>

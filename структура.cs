@@ -18,18 +18,14 @@ struct Map
 struct Location
 {
     string placeId;
-    (int||null) userId;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+    int userId;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 }
 
 
     User addUser(string login, string lastName,
-    string firstName, string middleName, string picture, string email) 
-    {
-        
-    }         
+    string firstName, string middleName, string picture, string email) {}         
 
-    User updateUser(int userId)
-    {}
+    User updateUser(int userId){}
 
     User getUser(int userId){}
 

@@ -44,3 +44,8 @@ app.get("/getMe", function(req, res){
     else
         res.send({error:{ code:1, message:"Invalid credentials"}});
 });
+
+app.get("/logout", function(req, res)
+{
+    
+})
