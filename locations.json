@@ -1,1 +1,5 @@
-{"Locations":[{"sectorId":"A","placeId":"2","userId":1},{"sectorId":"A","placeId":"7","userId":2},{"sectorId":"B","placeId":"3","userId":3},{"sectorId":"C","placeId":"4","userId":null},{"sectorId":"C","placeId":"1","userId":null}]}
+{"sectorId":"A","placeId":"2","userId":1}
+{"sectorId":"A","placeId":"7","userId":2}
+{"sectorId":"B","placeId":"3","userId":3}
+{"sectorId":"C","placeId":"4","userId":null}
+{"sectorId":"C","placeId":"1","userId":null}
